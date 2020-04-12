@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 前言3336
+=======
+# 前言1234
+>>>>>>> 1112156
 
 [README in English](README-en.md)
 
